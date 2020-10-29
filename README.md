@@ -1,5 +1,7 @@
 # instagram-feed-auto-like-bot-unlimited
 
+**It likes the posts of those your following. It does not provide you with unreal likes and followers!**
+
 Script for random unlimited automatic like for Instagram Web Feed.
 
 It runs on new Instagram React version.
