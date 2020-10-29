@@ -13,7 +13,7 @@ This code was created and tested by Kemal Akçıl in 2020, November.
 # How to use
 - Copy the code contained in this Repo. (instagram-feed-auto-like-bot-unlimited.js)
 - Sign in to Instagram with a web browser.
-- Open the Console.
+- Open the Console (Ctrl + Shift + C).
 - Paste the copied code into Console.
 - Set the limit value in code according to your need.
 ```sh
